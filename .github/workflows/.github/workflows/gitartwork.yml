@@ -1,0 +1,24 @@
+name: gitartwork from a contribution graph
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: ankitraj7727
+          text: " ANKIT "
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: gitartwork.svg
+          commit_message: "Update gitartwork.svg"
