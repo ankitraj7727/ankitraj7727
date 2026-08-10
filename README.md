@@ -81,10 +81,10 @@
   <img src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-### 📊 Unified Contribution & LeetCode Graph
+### 📊 Unified Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj7727&theme=react-dark" alt="Unified Contribution Graph" width="100%" />
+  <img src="./github-metrics.svg" alt="All Combined Contributions" width="100%"/>
 </p>
 
 ### 🧩 LeetCode Stats
