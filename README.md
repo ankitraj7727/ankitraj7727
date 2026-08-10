@@ -75,14 +75,17 @@
 ---
 
 ## Snake Animation
+### 🐍 Snake Animation
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Metrics Breakdown" width="600"/>
+  <img src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
 
 ### 📊 Activity Breakdown
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Ankit Raj's Activity Breakdown" width="600"/>
+  <img src="./github-metrics.svg" alt="Activity Breakdown" width="600"/>
 </p>
+
+
+
