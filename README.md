@@ -76,9 +76,9 @@
 
 ## Snake Animation
 
-<div align="center">
-<img alt="snake animation" src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg">
-</div>
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics Breakdown" width="600"/>
+</p>
 
 
 ### 📊 Activity Breakdown
