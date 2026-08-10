@@ -75,6 +75,7 @@
 ---
 
 ## Snake Animation
+<<<<<<< HEAD
 
 <div align="center">
 <img alt="snake animation" src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg">
@@ -103,10 +104,14 @@
 >>>>>>> Stashed changes
 
 ### 📊 Activity Breakdown
+=======
+### 🐍 Snake Animation
+>>>>>>> 2263b2e50e85a7ebedbf9f0832db57eac480e510
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Ankit Raj's Activity Breakdown" width="600"/>
+  <img src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <!-- update 1 -->
@@ -127,3 +132,13 @@
 
 <!-- update 9 -->
 >>>>>>> Stashed changes
+=======
+
+### 📊 Unified Contribution & LeetCode Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj7727&theme=react-dark" alt="Unified Contribution Graph" width="100%" />
+</p>
+
+
+>>>>>>> 2263b2e50e85a7ebedbf9f0832db57eac480e510
