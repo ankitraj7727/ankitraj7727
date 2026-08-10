@@ -84,8 +84,7 @@
 ### 📊 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitraj7727&show_icons=true&theme=dark&hide_border=false" alt="Ankit Raj's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj7727&theme=react-dark" alt="Ankit Raj's Activity Graph" width="100%" />
 </p>
-
 
 
