@@ -80,9 +80,50 @@
 <img alt="snake animation" src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg">
 </div>
 
+<<<<<<< Updated upstream
+=======
+<!-- commit 1 -->
+
+<!-- commit 2 -->
+
+<!-- commit 3 -->
+
+<!-- commit 4 -->
+
+<!-- commit 5 -->
+
+<!-- commit 6 -->
+
+<!-- commit 7 -->
+
+<!-- commit 8 -->
+
+<!-- commit 9 -->
+
+>>>>>>> Stashed changes
 
 ### 📊 Activity Breakdown
 
 <p align="center">
   <img src="./github-metrics.svg" alt="Ankit Raj's Activity Breakdown" width="600"/>
 </p>
+<<<<<<< Updated upstream
+=======
+<!-- update 1 -->
+
+<!-- update 2 -->
+
+<!-- update 3 -->
+
+<!-- update 4 -->
+
+<!-- update 5 -->
+
+<!-- update 6 -->
+
+<!-- update 7 -->
+
+<!-- update 8 -->
+
+<!-- update 9 -->
+>>>>>>> Stashed changes
