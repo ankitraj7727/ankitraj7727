@@ -81,10 +81,10 @@
   <img src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-### 📊 Activity Breakdown
+### 📊 Activity Overview
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Activity Breakdown" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitraj7727&show_icons=true&theme=dark&hide_border=false" alt="Ankit Raj's GitHub Stats" />
 </p>
 
 
