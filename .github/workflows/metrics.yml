@@ -17,12 +17,9 @@ jobs:
           user: ankitraj7727
           template: classic
           base: activity, community
+          config_display: regular
           plugin_habits: yes
           plugin_habits_from: 200
-<<<<<<< Updated upstream
           plugin_habits_days: 14
           plugin_habits_facts: no
           plugin_habits_charts: yes
-=======
-          plugin_habits_charts: yes
->>>>>>> Stashed changes
