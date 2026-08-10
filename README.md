@@ -87,3 +87,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj7727&theme=react-dark" alt="Unified Contribution Graph" width="100%" />
 </p>
 
+### 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/ankitraj7727" alt="LeetCode Stats Card" />
+</p>
