@@ -81,8 +81,4 @@
   <img src="https://raw.githubusercontent.com/ankitraj7727/ankitraj7727/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-### 📊 All Combined Contributions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj7727&theme=react-dark" alt="Ankit Raj's Activity Graph" width="100%" />
-</p>
